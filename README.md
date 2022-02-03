@@ -36,3 +36,7 @@ BinaryEdge - https://api.binaryedge.io/v1/minions
 | ------ | ------ |
 | Censys Scanner | ```Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)``` |
 
+
+# Block TOR Exit nodes
+https://www.dan.me.uk/torlist/
+
