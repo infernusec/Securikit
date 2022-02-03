@@ -24,7 +24,9 @@
 More at Checkpoint - https://community.checkpoint.com/t5/Management/HowTo-Block-IoT-scanners-like-Shodan-Censys-Shadowserver-PAN/td-p/124612
 
 Censys - https://support.censys.io/hc/en-us/articles/360043177092-Opt-Out-of-Scanning
-Shodan - 
+
+Shodan - https://wiki.ipfire.org/configuration/firewall/blockshodan
+
 BinaryEdge - https://api.binaryedge.io/v1/minions 
 
 
@@ -38,5 +40,6 @@ BinaryEdge - https://api.binaryedge.io/v1/minions
 
 
 # Block TOR Exit nodes
+
 https://www.dan.me.uk/torlist/
 
