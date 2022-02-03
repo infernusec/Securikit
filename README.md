@@ -1,4 +1,16 @@
-# BadHosts
+# ZeroTrust
+ZeroTrust is a project with many information to secure Networks, Servers, IOT and more..
+with this project you can able to reduce cyber attacks on your site, your servers, and your network.
+
+The project containts:
+1. Bad hosts (with ASN numbers) that can be potentially to cyber attacks.
+2. Bad User agents (Like crawlers and scanners)
+3. VPN / Proxy Providers that attackers use.
+4. Internet scanner blocking (like shodan, censys, etc..)
+5. TOR exit-nodes blocking. (Prevent access to your network from TOR network).
+
+
+
 ## List of hosts that can be potentially to cyber attacks..
 
 ### which attacks? Injections, Spams, Scams, Brute force, DDoS, Proxys, VPN etc...
