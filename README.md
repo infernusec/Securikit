@@ -19,6 +19,10 @@
 | Heficed | 61317 ||
 | Contabo | 51167, 40021 ||
 
+# Block VPN Providers
+https://www.vpngate.net/en/
+
+
 # Block Auto Scanners (Shodan, Censys,)
 
 More at Checkpoint - https://community.checkpoint.com/t5/Management/HowTo-Block-IoT-scanners-like-Shodan-Censys-Shadowserver-PAN/td-p/124612
