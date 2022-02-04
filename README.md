@@ -16,20 +16,29 @@ The project containts:
 ### which attacks? Injections, Spams, Scams, Brute force, DDoS, Proxys, VPN etc...
 
 
-| ISP | ASN | Links |
-| ------ | ------ | ------ |
-| AWS (Amazon Cloud) | 64512 | https://ip-ranges.amazonaws.com/ip-ranges.json https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html|
-| GCP (Google Cloud) | 36040 ||
-| DigitalOcean | 14061 ||
-| Hetzner | 24940 ||
-| Zare | 25369, 200039 ||
-| Kamatera | 210329, 36007, 64022, 204548 ||
-| Hostinger | 47583 ||
-| Unified Layer | 46606 | |
-| OVH | 16276 ||
-| Alibaba Cloud | 45102 ||
-| Heficed | 61317 ||
-| Contabo | 51167, 40021 ||
+| ISP | Countries / Regions | ASN | Links |
+| ------ | ------ | ------ | ------ |
+| AWS (Amazon Cloud) | [Click to view](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html) | 64512 | https://ip-ranges.amazonaws.com/ip-ranges.json https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html|
+| GCP (Google Cloud) || 36040 ||
+| DigitalOcean | US (NY,SF), EU, CA, DE, NL | 14061 ||
+| Hetzner | DE,SF,US (W-D.C) | 24940 ||
+| Zare || 25369, 200039 ||
+| Kamatera || 210329, 36007, 64022, 204548 ||
+| Hostinger || 47583 ||
+| Unified Layer || 46606 | |
+| OVH || 16276 ||
+| Alibaba Cloud || 45102 ||
+| Heficed || 61317 ||
+| Contabo | [Click to view](https://contabo.com/en/locations/) | 51167, 40021 ||
+| ChinaNet Jiangsu | CN | 23650 ||
+| ACEVILLE PTE.LTD | HK | 139341 ||
+| Private Layer INC | PA | 51852 ||
+| Tencent Cloud Computing (Beijing) Co., Ltd | CN | 133478 ||
+| The Calyx Institute | US | 4224 ||
+| Censys | US | 398324 ||
+| LG DACOM Corporation | KR | 3786 ||
+
+
 
 # Block VPN Providers
 https://www.vpngate.net/en/
