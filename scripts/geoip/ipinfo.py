@@ -2,7 +2,7 @@ import geoip2.database
 import sys
 import multiprocessing
 
-db_path = '/mnt/e/Projects/geoipdb'
+db_path = './geoipdb'
 asn_reader = geoip2.database.Reader(db_path+'/GeoLite2-ASN.mmdb')
 city_reader = geoip2.database.Reader(db_path+'/GeoLite2-City.mmdb')
 
